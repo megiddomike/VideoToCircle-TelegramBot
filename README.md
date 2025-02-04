@@ -34,7 +34,7 @@ This project is a Telegram bot designed to convert regular videos into round vid
    ```
 
 4. **Set Up Configuration:**
-   - Add your bot token from [@BotFather](https://t.me/BotFather)
+   Add your bot token from [@BotFather](https://t.me/BotFather)
 
 5. **Run the Bot:**
    ```bash
@@ -48,14 +48,14 @@ This project is a Telegram bot designed to convert regular videos into round vid
 4. Receive round video message
 5. Forward to any chat
 
-### 📝 Video Requirements
+### Video Requirements
 - Format: MP4 (recommended)
 - Duration: Up to 60 seconds
 - Size: Max 20MB
 - Quality: 480p recommended (but you can try your best)
 - Aspect: Square videos work best (but ofc u can send horizontal ones)
 
-### 📝 License
+### License
 This project is MIT licensed. See LICENSE for more information.
 
 ### Support
@@ -68,7 +68,7 @@ If you find this project useful:
 ---
 
 <div align="center">
-    <h4>Built with ❤️ by <a href="https://t.me/megiddo_mike" target="_blank">Bohdan</a></h4>
+    <h4>Built with ❤️ by <a href="https://t.me/megiddo_mike" target="_blank">Mike</a></h4>
 </div>
 
 
